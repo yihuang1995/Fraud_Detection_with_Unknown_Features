@@ -55,7 +55,7 @@ All models' hyperparameters are selected using Randomized Search CV methods. 80%
 
 ## Conclusion
 
-+ **Best Model **:   
++ **Best Model**:   
 	Feature Selection + GradientBoosting model.   
 
 + **Model conclusion**:  
