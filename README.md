@@ -9,7 +9,7 @@
 * Data:  
 	- [creditcard_down.csv](https://github.com/yihuang1995/Fraud_Detection_with_Unknown_Features/blob/main/creditcard_down.csv) 
 * Presentation:  
-	- [main_work_2tfidf.ipynb](https://github.com/juliafeec/tmdb/blob/master/main_work_2tfidf.ipynb) Converting both overview and subtitles with tfidf. 
+	- [ml_lab_ppt.pptx](https://github.com/yihuang1995/Fraud_Detection_with_Unknown_Features/blob/main/ml_lab_ppt.pptx)
 * Others:   
 	- [images](https://github.com/juliafeec/tmdb/tree/master/images)  
 
